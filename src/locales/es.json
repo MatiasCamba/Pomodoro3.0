@@ -1,0 +1,17 @@
+{
+  "appTitle": "Reloj Pomodoro",
+  "pomodoro": "Pomodoro",
+  "shortBreak": "Descanso Corto",
+  "longBreak": "Descanso Largo",
+  "start": "Iniciar",
+  "pause": "Pausar",
+  "reset": "Reiniciar",
+  "showHistory": "Mostrar Historial",
+  "hideHistory": "Ocultar Historial",
+  "settings": "Ajustes",
+  "timerSettings": "Ajustes del Temporizador",
+  "minutes": "minutos",
+  "close": "Cerrar",
+  "timerHistory": "Historial del Temporizador",
+  "noHistory": "Aún no hay historial del temporizador."
+}

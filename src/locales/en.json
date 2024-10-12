@@ -1,0 +1,14 @@
+{
+  "appTitle": "Pomodoro Clock",
+  "pomodoro": "Pomodoro",
+  "shortBreak": "Short Break",
+  "longBreak": "Long Break",
+  "start": "Start",
+  "pause": "Pause",
+  "reset": "Reset",
+  "timerHistory": "Timer History",
+  "noHistory": "No timer history yet.",
+  "minutes": "minutes",
+  "timerSettings": "Timer Settings",
+  "close": "Close"
+}
